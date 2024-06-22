@@ -1,0 +1,29 @@
+{
+  "name": "Flash",
+  "health": 40,
+  "speed": 150,
+  "defense": 80,
+  "moves": [
+    {
+      "type": "Attack",
+      "name": "Lightning Spark",
+      "power": 110,
+      "size": 15,
+      "priority": 0.92
+    },
+    {
+      "type": "Attack",
+      "name": "Tornado",
+      "power": 80,
+      "size": 20,
+      "priority": 0.75
+    },
+    {
+      "type": "Defense",
+      "name": "Phase",
+      "power": null,
+      "size": 5,
+      "priority": null
+    }
+  ]
+}

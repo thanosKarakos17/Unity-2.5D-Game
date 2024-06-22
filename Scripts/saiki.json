@@ -1,0 +1,29 @@
+{
+  "name": "Saiki Kusuo",
+  "health": 60,
+  "speed": 120,
+  "defense": 60,
+  "moves": [
+    {
+      "type": "Attack",
+      "name": "Pyro Kinesis",
+      "power": 90,
+      "size": 20,
+      "priority": 0.85
+    },
+    {
+      "type": "Attack",
+      "name": "Psychic Punch",
+      "power": 120,
+      "size": 15,
+      "priority": 0.85
+    },
+    {
+      "type": "Defense",
+      "name": "Teleport",
+      "power": null,
+      "size": 5,
+      "priority": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Super Mario",
+  "health": 50,
+  "speed": 80,
+  "defense": 80,
+  "moves": [
+    {
+      "type": "Attack",
+      "name": "Ground Pound",
+      "power": 75,
+      "size": 20,
+      "priority": 0.9
+    },
+    {
+      "type": "Attack",
+      "name": "Fireballs",
+      "power": 95,
+      "size": 15,
+      "priority": 0.85
+    },
+    {
+      "type": "Defense",
+      "name": "Hide In Pipe",
+      "power": null,
+      "size": 5,
+      "priority": null
+    }
+  ]
+}
